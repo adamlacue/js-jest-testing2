@@ -1,5 +1,5 @@
 {
-  "name": "js-jest-testing",
+  "name": "js-jest-testing2",
   "version": "1.0.0",
   "description": "Practice some Jest testing",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gsantella/js-jest-testing.git"
+    "url": "git+https://github.com/adamlacue/js-jest-testing2.git"
   },
   "keywords": [
     "testing",
@@ -17,9 +17,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gsantella/js-jest-testing/issues"
+    "url": "https://github.com/adamlacue/js-jest-testing2/issues"
   },
-  "homepage": "https://github.com/gsantella/js-jest-testing#readme",
+  "homepage": "https://github.com/adamlacue/js-jest-testing2#readme",
   "devDependencies": {
     "jest": "^29.7.0"
   }
