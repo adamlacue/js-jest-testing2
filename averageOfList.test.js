@@ -1,5 +1,5 @@
-const addAllOdds = require("./addAllOdds.js")
+const averageOfList = require("./averageOfList.js")
 
-test("reverse [1,2,3] ", () => {
-    expect(addAllOdds([1,2,3])).toBe([4])
+test("average [1,2,3] ", () => {
+    expect(averageOfList([1,2,3])).toBe(2)
 })
