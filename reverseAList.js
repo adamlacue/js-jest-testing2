@@ -3,8 +3,6 @@ const reverseAList = (num1, num2, num3) => {
 
     nums.reverse();
 
-
-
     return nums;
 }
 
